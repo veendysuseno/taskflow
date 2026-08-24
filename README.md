@@ -54,7 +54,7 @@ taskflow/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/taskflow.git
+git clone https://github.com/veendysuseno/taskflow.git
 ```
 
 Ganti `USERNAME` dengan username GitHub kamu.
